@@ -1,4 +1,4 @@
-Song Lyrics 
+* Song Lyrics 
 
 This is built by using HTML, CSS, JavaScript
 
