@@ -1,6 +1,6 @@
 Song Lyrics 
 
-This is built using HTML, CSS, JavaScript
+This is built by using HTML, CSS, JavaScript
 
 ![Screenshot 2024-07-16 083512](https://github.com/user-attachments/assets/76df2d40-3664-4a73-a6e5-910a9fe99cb1)
 
